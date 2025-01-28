@@ -21,19 +21,25 @@ The **SOAR-EDR Lab** project focuses on deploying a **Security Orchestration, Au
 
 ## Screenshots  
 
-- 📌 **Ref 1:** Tines Workflow Storyboard
-![Tines Board](https://github.com/user-attachments/assets/bb25db99-b6f8-4548-8cd9-a44701f98c47)
-  
-- 📌 **Ref 2:** SOC Analyst Notification Prompt
-  <img width="503" alt="User Prompt" src="https://github.com/user-attachments/assets/d8f2af1b-6e9e-44c5-903c-9eaa85d62c6c" />
+Ref 1: Tines Workflow Storyboard  
 
-  
-- 📌 **Ref 3:** Endpoint Isolation via LimaCharlie
-<img width="1313" alt="Isolated Screen" src="https://github.com/user-attachments/assets/5b2f0070-58f4-49f7-8dcc-d38a3a79c228" />
-  
-- 📌 **Ref 4:** Automated Alerts
-<img width="1440" alt="Slack Alert" src="https://github.com/user-attachments/assets/72756362-492b-4632-8ddd-9727d1eb509e" />
-<img width="1136" alt="Email " src="https://github.com/user-attachments/assets/5d02a863-f0f3-4032-a03f-6e5f13dd1530" />
+![Tines Board](https://github.com/user-attachments/assets/cb282cc8-4f3f-432f-8e77-a26acc8951f6)  
+
+Ref 2: Notification to SOC Analyst Prompt  
+
+![User Prompt](https://github.com/user-attachments/assets/622d8f3a-b7c6-4d19-8b8c-fabb3f2a38a5)  
+
+Ref 3: Target machine being isolated by LimaCharlie  
+
+![Isolated Screen](https://github.com/user-attachments/assets/a2909b06-b9d8-4e05-9fac-2003dfef98cd)  
+
+Ref 4: Slack notification  
+
+![Slack Alert](https://github.com/user-attachments/assets/7b72a01a-ad5f-4abf-beb1-8d7b9e40cf4f)  
+
+Ref 5: Email notification  
+
+![Email](https://github.com/user-attachments/assets/6292d0fb-5b2c-4bc3-a7e4-6ceb7c0b8d87)  
 
 ---
 

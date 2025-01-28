@@ -1,4 +1,4 @@
-# SOAR-EDR Lab
+# SOAR-EDR PROJECT
 
 ## Objective  
 The **SOAR-EDR Lab** project focuses on deploying a **Security Orchestration, Automation, and Response (SOAR)** system, seamlessly integrated with **Endpoint Detection and Response (EDR)** using **Tines** and **LimaCharlie**. This project aims to enhance cybersecurity operations by automating incident response, streamlining detection rule validation, and strengthening defensive capabilities through hands-on testing.
@@ -21,10 +21,19 @@ The **SOAR-EDR Lab** project focuses on deploying a **Security Orchestration, Au
 
 ## Screenshots  
 
-- 📌 **Ref 1:** Tines Workflow Storyboard **(Pending)**  
-- 📌 **Ref 2:** SOC Analyst Notification in Slack **(Pending)**  
-- 📌 **Ref 3:** Endpoint Isolation via LimaCharlie **(Pending)**  
-- 📌 **Ref 4:** Automated Alert & Response **(Pending)**  
+- 📌 **Ref 1:** Tines Workflow Storyboard
+![Tines Board](https://github.com/user-attachments/assets/bb25db99-b6f8-4548-8cd9-a44701f98c47)
+  
+- 📌 **Ref 2:** SOC Analyst Notification Prompt
+  <img width="503" alt="User Prompt" src="https://github.com/user-attachments/assets/d8f2af1b-6e9e-44c5-903c-9eaa85d62c6c" />
+
+  
+- 📌 **Ref 3:** Endpoint Isolation via LimaCharlie
+<img width="1313" alt="Isolated Screen" src="https://github.com/user-attachments/assets/5b2f0070-58f4-49f7-8dcc-d38a3a79c228" />
+  
+- 📌 **Ref 4:** Automated Alerts
+<img width="1440" alt="Slack Alert" src="https://github.com/user-attachments/assets/72756362-492b-4632-8ddd-9727d1eb509e" />
+<img width="1136" alt="Email " src="https://github.com/user-attachments/assets/5d02a863-f0f3-4032-a03f-6e5f13dd1530" />
 
 ---
 
